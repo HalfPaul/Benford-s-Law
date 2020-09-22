@@ -17,3 +17,11 @@ occurring quantity, being a 1 is more than 30%!
 This very counter-intuitive observation is known as Benford's Law.
 
 ![Benford's Law](https://github.com/handertolium/Benford-s-Law/blob/master/benford_image.jpeg?raw=true)
+
+## Project
+In this project I'm trying to test different numbers in different fields with Benford' Law proportions.
+**Fields:**
+
+* Politics
+* Sports
+* Economics
