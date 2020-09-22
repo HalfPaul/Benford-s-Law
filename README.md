@@ -20,6 +20,7 @@ This very counter-intuitive observation is known as Benford's Law.
 
 ## Project
 In this project I'm trying to test different numbers in different fields with Benford' Law proportions.
+
 **Fields:**
 
 * Politics
