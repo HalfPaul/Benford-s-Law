@@ -15,3 +15,5 @@ population, or a number representing just about any other naturally
 occurring quantity, being a 1 is more than 30%!
 
 This very counter-intuitive observation is known as Benford's Law.
+
+![Benford's Law](https://github.com/handertolium/Benford-s-Law/blob/master/benford_image.jpeg?raw=true)
