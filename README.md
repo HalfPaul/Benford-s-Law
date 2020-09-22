@@ -1,7 +1,7 @@
 # Benford-s-Law
 
 ## Preface
-S, I was watching Netflix documentary series called **Connected** and in one of episode, narrator talked about technique, which a lot of world's tax agencies use to check if company is commiting tax fraud. This technique is called Benford's Law.
+So, I was watching Netflix documentary series called **Connected** and in one of episode, narrator talked about technique, which a lot of world's tax agencies use to check if company is commiting tax fraud. This technique is called Benford's Law.
 
 ## What is Benford's Law?
 Many people guess that the odds are no different 
