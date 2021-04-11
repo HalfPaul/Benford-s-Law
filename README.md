@@ -26,3 +26,29 @@ In this project I'm trying to test different numbers in different fields with Be
 * Politics
 * Sports
 * Economics
+
+## Politics
+
+### Russian elections
+![russian elections](https://github.com/handertolium/Benford-s-Law/blob/master/images/russian.png)
+
+### American elections 2016
+![!American elections](https://github.com/handertolium/Benford-s-Law/blob/master/images/usa.png)
+
+### Disclaimer 
+After creating this project I found out that Benford's Law is not a good measure of election's validity. For more information check out this [video](https://www.youtube.com/watch?v=etx0k1nLn78).
+
+## Sports 
+
+### NBA three point attempts of different players.
+![3PTS attempts](https://github.com/handertolium/Benford-s-Law/blob/master/images/nba.png)
+
+## Economics
+
+### S&P500 Volume
+
+![volume](https://github.com/handertolium/Benford-s-Law/blob/master/images/stocks.png)
+
+### Prices of agricultural commodities
+![agriculture](https://github.com/handertolium/Benford-s-Law/blob/master/images/agriculture_max.png)
+![
